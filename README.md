@@ -11,5 +11,5 @@ The list of municipalities that are invited to do the AHP survey for data qualit
 The AHP survey results are received anonymously from 7 out of 17 invitation being sent.
 The questionnaire design of the metrics is explained at Supplementary File Section B. The results of the AHP calculation is available at Supplementary File Section C.
 
-How to cite this article: \\
+How to cite this article: \
 I. Hafidz, G. A. Adzanni and N. Aini Rakhmawati, "Open Data Portal Quality (ODPQ) Framework Based Metric for Assessing the Quality of Open Data Portals in Indonesian Local Governments," 2023 International Conference on Smart-Green Technology in Electrical and Information Systems (ICSGTEIS), Badung, Bali, Indonesia, 2023, pp. 127-132, doi: 10.1109/ICSGTEIS60500.2023.10424389. keywords: {Measurement;Local government;Analytic hierarchy process;Usability;Portals;Open data;Information systems;Open Data;Open Government;AHP;Open Data Portal Quality;CKAN;Open Data Portal Quality;ODPQ},
