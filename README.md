@@ -1,6 +1,24 @@
 # 2023ODPQ
 The supplementary files for paper: Open Data Portal Quality (ODPQ) Framework Based Metric for Assessing the Quality of Open Data Portals in Indonesian Local Governments\
 Author: Gamal Akbar Adzanni, Nur Aini Rakhmawati, and Irmasari Hafidz
+Link: https://ieeexplore.ieee.org/abstract/document/10424389
+
+How to cite:
+[plain text]
+I. Hafidz, G. A. Adzanni and N. Aini Rakhmawati, "Open Data Portal Quality (ODPQ) Framework Based Metric for Assessing the Quality of Open Data Portals in Indonesian Local Governments," 2023 International Conference on Smart-Green Technology in Electrical and Information Systems (ICSGTEIS), Badung, Bali, Indonesia, 2023, pp. 127-132, doi: 10.1109/ICSGTEIS60500.2023.10424389. keywords: {Measurement;Local government;Analytic hierarchy process;Usability;Portals;Open data;Information systems;Open Data;Open Government;AHP;Open Data Portal Quality;CKAN;Open Data Portal Quality;ODPQ},
+
+[bibtex]
+@INPROCEEDINGS{10424389,
+  author={Hafidz, Irmasari and Adzanni, Gamal Akbar and Aini Rakhmawati, Nur},
+  booktitle={2023 International Conference on Smart-Green Technology in Electrical and Information Systems (ICSGTEIS)}, 
+  title={Open Data Portal Quality (ODPQ) Framework Based Metric for Assessing the Quality of Open Data Portals in Indonesian Local Governments}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={127-132},
+  keywords={Measurement;Local government;Analytic hierarchy process;Usability;Portals;Open data;Information systems;Open Data;Open Government;AHP;Open Data Portal Quality;CKAN;Open Data Portal Quality;ODPQ},
+  doi={10.1109/ICSGTEIS60500.2023.10424389}}
+
 
 ## About the metrics
 There are 3 dimensions of data quality metrics that are being used in this ODPQ research. related to the "Existence" dimension (Qe), "Conformance" dimension (Qc), and "Open Data" dimension (Qo). Each of the dimension has its own sub-dimension that is defined and explained at [Supplementary File ODPQ Indonesian Gov Open Data Portalv3.pdf](https://github.com/irhafidz/2023ODPQ/blob/main/Supplementary%20File%20ODPQ%20Indonesian%20Gov%20Open%20Data%20Portalv3.pdf) in this repositories.
